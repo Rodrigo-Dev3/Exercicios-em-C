@@ -1,2 +1,2 @@
-# Exercicios em C
- Exercícios desenvolvidos na Linguagem C
+# Exercícios em C
+ Exercícios desenvolvidos na Linguagem C.
